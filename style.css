@@ -1,0 +1,44 @@
+body{
+    background-color: aliceblue;
+}
+.box{
+    margin-left: 400px;
+    border-spacing: 50px;
+}
+p{
+    text-align:center;
+    font-family: system-ui;
+}
+.box td{
+    border-radius: 10px;
+    text-align: center;
+    color: gray;
+    border: 1px solid;
+    font-family: system-ui;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px grey;
+        
+}
+.box img:hover{
+    height: 80px;
+    width: 80px;
+}
+.box td:hover{
+    color: rgb(0, 255, 64);
+    border-color:rgb(0, 255, 64) ;
+    box-shadow: 2px 2px 2px 2px aquamarine;
+    box-sizing: 20px;
+}
+#img{
+    margin-left: 560px;
+}
+h1{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    opacity: .8;
+    font-size: 50px;
+    
+}
